@@ -10,8 +10,11 @@ Project ATM Sederhana dengan menggunakan java. Project ini bertujuan untuk melat
 FITUR:
 
 1.Penarikan
+
 2.Periksa Saldo
+
 3.Deposit
+
 4.Transfer
 
 
