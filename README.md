@@ -3,6 +3,8 @@
 AUTHOR:NAUFAL DANADYAKSA 
 
 EMAIL:naufal060906@gmail.com
+\n
+PIN ATM:123456
 
 
 Project ATM Sederhana dengan menggunakan java. Project ini bertujuan untuk melatih keahlaian pemrograman java (dasar)
